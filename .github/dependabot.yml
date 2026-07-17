@@ -6,6 +6,7 @@ updates:
       interval: "weekly"
     commit-message:
       prefix: "chore"
+
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
