@@ -5,7 +5,7 @@ edition = "2021"
 description = "A minimal, multi-threaded HTTP server built from scratch using only the Rust standard library."
 authors = ["Sol <sol@oxide-serve.dev>"]
 license = "MIT"
-repository = "https://github.com/sol/oxide-serve"
+repository = "https://github.com/NefaroXX/oxide-serve"
 keywords = ["http", "server", "minimal", "educational", "no-std-deps"]
 categories = ["web-programming::http-server", "web-programming"]
 

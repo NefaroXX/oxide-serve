@@ -17,7 +17,7 @@ A minimal, multi-threaded HTTP server built from scratch using **only the Rust s
 
 ```bash
 # Clone and run
-git clone https://github.com/sol/oxide-serve.git
+git clone https://github.com/NefaroXX/oxide-serve.git
 cd oxide-serve
 cargo run --release
 ```
