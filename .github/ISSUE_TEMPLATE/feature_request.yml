@@ -1,0 +1,30 @@
+name: Feature Request
+description: Suggest an idea for oxide-serve
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for your interest in improving oxide-serve!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Scope check
+      options:
+        - label: This feature preserves the zero-dependency policy
+        - label: This feature maintains or improves educational clarity
